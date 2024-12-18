@@ -6,3 +6,4 @@
 "Turmoil has engulfed the Galatic Republic."
 >>>>>>> add-crawling
 "A brave hero named Aria was born under the brightest star." 
+"A shadowy villain emerged, spreading fear across the land." 
