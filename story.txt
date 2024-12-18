@@ -1,3 +1,7 @@
 "Hello,this is my submission for Git class!" 
 "Once upon a time, in a galaxy far, far away." 
+<<<<<<< HEAD
 "It is a dark time for the Rebellion." 
+=======
+"Turmoil has engulfed the Galatic Republic."
+>>>>>>> add-crawling
